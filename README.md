@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HelloGit-ty
-- 👀 I’m interested in network, systems and webapp security. 
-- 🌱 I’m currently working on a project for a national security hackathon. 
+- I fix the stuff that i exploited so that I may exploit it again.
 - 📫 How to reach me- ayushguha.off16007@gmail.com
 
 <!---
